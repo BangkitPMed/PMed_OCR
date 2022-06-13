@@ -4,6 +4,7 @@
 # Table Of Contents
 - [Introduction](#introduction)
 - [Selected Theme](#selected-theme)
+- [Instruction](#instruction)
 
 ## Introduction
 This repository is the machine learning part for the PMed Project. <br />
