@@ -6,7 +6,7 @@
 - [Selected Theme](#selected-theme)
 
 ## Introduction
-This repositor is the machine learning part for the PMed Project.
+This repository is the machine learning part for the PMed Project. <br />
 This repository contains the data preprocessing, model training, converting model to tflite, and android demo app.
 
 ## Selected Theme
