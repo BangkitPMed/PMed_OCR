@@ -1,0 +1,14 @@
+# PMed_OCR
+[![Platform](https://img.shields.io/badge/platform-Jupyter%20Notebook-orange.svg)](#)
+
+# Table Of Contents
+- [Introduction](#introduction)
+- [Selected Theme](#selected-theme)
+
+## Introduction
+This repositor is the machine learning part for the PMed Project.
+This repository contains the data preprocessing, model training, converting model to tflite, and android demo app.
+
+## Selected Theme
+
+Healthcare & Animal Welfare
