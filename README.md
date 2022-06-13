@@ -17,6 +17,6 @@ Healthcare & Animal Welfare
 
 ## Instruction
 
-1. Train the model using the transfer_learning_recognizer_model.ipynb file
-2. Convert the model to TF Lite
+1. Train the model using the transfer learning notebook file
+2. Convert the model to TF Lite using the converting model to tflite file
 3. Change the tflite file in the android demo app to test the trained model
